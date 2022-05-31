@@ -1,4 +1,4 @@
-# glossary-ecosystem
+# Glossary Ecosystem
 
 This glossary includes terms defined and used in discuss ecosystem related topics
 
