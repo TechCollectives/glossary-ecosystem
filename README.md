@@ -1,5 +1,3 @@
-# Glossary Ecosystem
-
 This glossary includes terms defined and used in discuss ecosystem related topics
 
 __cybernetics__: noun: the science of communications and automatic control systems in both machines and living things.
